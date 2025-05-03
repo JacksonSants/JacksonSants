@@ -60,6 +60,12 @@
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
 <div align="center">
+
+<!-- Gráfico de principais projetos -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonSants&repo=deliciasdeamor&theme=dracula" alt="Delícias de Amor" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonSants&repo=ComexApi&theme=dracula" alt="ComexApi" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonSants&repo=character_list&theme=dracula" alt="Character List" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonSants&repo=Check-in-api-para-gestao-de-evento&theme=dracula" alt="Check-in API para Gestão de Evento" />
   
   <!-- Estatísticas gerais -->
   ![Jackson Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacksonSants&show_icons=true&theme=dracula&include_all_commits=true)
