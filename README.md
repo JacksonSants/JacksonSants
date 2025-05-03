@@ -29,8 +29,6 @@
 - 🏢 &nbsp; **Estagiário em Engenharia de Software** — [BEMOL DIGITAL](https://www.bemol.com.br/)  
   Contribuindo com soluções inovadoras, aprendendo sobre sistemas escaláveis e boas práticas de desenvolvimento.
 
-
-
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
 ### 💻 &nbsp;Front-end:
