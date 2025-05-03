@@ -83,13 +83,20 @@
 
 <div align="center">
 
-  <!-- Estatísticas gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JacksonSants&show_icons=true&theme=dracula&include_all_commits=true" alt="Jackson Diego's GitHub Stats" />
-
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonSants&layout=compact&theme=dracula&hide=jupyter%20notebook" alt="Top Langs" />
-
-  <!-- Streak de contribuições -->
-  <img src="https://streak-stats.demolab.com?user=JacksonSants&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td>
+        <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=JacksonSants&show_icons=true&theme=dracula&include_all_commits=true" alt="Jackson Diego's GitHub Stats" />
+      </td>
+      <td>
+        <img width="310" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonSants&layout=compact&theme=dracula&hide=jupyter%20notebook" alt="Top Langs" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="820" height="200" src="https://streak-stats.demolab.com?user=JacksonSants&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 
 </div>
