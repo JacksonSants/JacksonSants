@@ -54,25 +54,42 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=FFCA28)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
+<h2>🚀 &nbsp;Projetos</h2>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonSants&repo=deliciasdeamor&theme=dracula" alt="Delícias de Amor" />
+      </td>
+      <td>
+        <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonSants&repo=Check-in-api-para-gestao-de-evento&theme=dracula" alt="Check-in API para Gestão de Evento" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonSants&repo=character_list&theme=dracula" alt="Character List" />
+      </td>
+      <td>
+        <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonSants&repo=ComexApi&theme=dracula" alt="ComexApi" />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
 <div align="center">
 
-<!-- Gráfico de principais projetos -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonSants&repo=deliciasdeamor&theme=dracula" alt="Delícias de Amor" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonSants&repo=ComexApi&theme=dracula" alt="ComexApi" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonSants&repo=character_list&theme=dracula" alt="Character List" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacksonSants&repo=Check-in-api-para-gestao-de-evento&theme=dracula" alt="Check-in API para Gestão de Evento" />
-  
   <!-- Estatísticas gerais -->
-  ![Jackson Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacksonSants&show_icons=true&theme=dracula&include_all_commits=true)
-  
-  <!-- Linguagens mais usadas (ocultando Jupyter Notebook) -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonSants&layout=compact&theme=dracula&hide=jupyter%20notebook)
-  
-  <!-- Streak de contribuições -->
-  ![GitHub Streak](https://streak-stats.demolab.com?user=JacksonSants&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
+  <img src="https://github-readme-stats.vercel.app/api?username=JacksonSants&show_icons=true&theme=dracula&include_all_commits=true" alt="Jackson Diego's GitHub Stats" />
 
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonSants&layout=compact&theme=dracula&hide=jupyter%20notebook" alt="Top Langs" />
+
+  <!-- Streak de contribuições -->
+  <img src="https://streak-stats.demolab.com?user=JacksonSants&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
