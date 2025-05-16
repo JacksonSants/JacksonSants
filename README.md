@@ -11,10 +11,10 @@
 
 - 🎓 &nbsp; Sou graduando em **Sistemas de Informação** pela **Universidade Federal do Amazonas (UFAM)**, no Instituto de Ciências Exatas e Tecnologia (ICET).
 - 💡 &nbsp; Meu primeiro contato com programação foi na universidade, e desde então venho construindo uma **base sólida** em desenvolvimento, pesquisa e aprendizado contínuo.
-- 💚 &nbsp; Com o tempo, descobri uma verdadeira **paixão por transformar ideias em soluções digitais** por meio do código.
+- 💚 &nbsp; Com o tempo, descobri uma verdadeira **paixão** pela área de desenvolvimento.
 - 🚀 &nbsp; Atualmente, foco minha carreira em **desenvolvimento web e mobile**, utilizando a stack **JavaScript/TypeScript** com **Node.js**, **React**, **Flutter**, **Dotnet** e outras tecnologias modernas.
 - 🧠 &nbsp; Tenho interesse especial em **arquitetura de software**, **design de interfaces** e **boas práticas de código**.
-- ⚽ &nbsp; Apaixonado por **futebol**, **pré-história** e adoro programar durante meu tempo livre!
+- ⚽ &nbsp; Gosto de **futebol**, **pré-história**, **Série/Filme**, **cultura Geek**, **Livros/Mangás** e adoro programar durante meu tempo livre!
 
 ---
 
