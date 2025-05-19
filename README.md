@@ -5,6 +5,8 @@
   <a href="https://www.linkedin.com/in/jackson-diego-805524263/"><img src="https://img.shields.io/badge/-Jackson%20Diego-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/jackson.diego.148?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/-Jackson%20Diego-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
   <a href="mailto:jacksondiego2002@gmail.com"><img src="https://img.shields.io/badge/-jacksondiego2002@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="https://jacksonsants.github.io/jackson-curriculum/" target="_blank">
+  <img src="https://img.shields.io/badge/-Currículo-0A66C2?style=flat-square&logo=Google%20Drive&logoColor=white" alt="Currículo"/></a>
 </p>
 
 ## 👨🏻‍💻 &nbsp;Sobre mim
