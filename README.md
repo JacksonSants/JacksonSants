@@ -16,7 +16,7 @@
 - 💚 &nbsp; Com o tempo, descobri uma verdadeira **paixão** pela área de desenvolvimento.
 - 🚀 &nbsp; Atualmente, foco minha carreira em **desenvolvimento web e mobile**, utilizando a stack **JavaScript/TypeScript** com **Node.js**, **React**, **Flutter**, **Dotnet** e outras tecnologias modernas.
 - 🧠 &nbsp; Tenho interesse especial em **arquitetura de software**, **design de interfaces** e **boas práticas de código**.
-- ⚽ &nbsp; Gosto de **futebol**, **pré-história**, **série/filme**, **cultura Geek**, **livros/mangás** e adoro programar durante meu tempo livre!
+- ⚽ &nbsp; Gosto de **futebol**, **pré-história**, **série/filme**, **livros/mangás**, **progamação** durante meu tempo livre, e estou tornando a corrida/caminhada parte do meu dia para manter a saúde física e mental.
 
 ---
 
@@ -28,9 +28,10 @@
 
 ## 💼 &nbsp;Experiência
 
-- 🏢 &nbsp; **Estagiário em Engenharia de Software** — [BEMOL DIGITAL](https://www.bemol.com.br/)  
+- 🏢 &nbsp; **Estagiário em Engenharia de Software (06/2024 - 06/2025)** — [BEMOL DIGITAL](https://www.bemol.com.br/)  
   Contribuindo com soluções inovadoras, aprendendo sobre sistemas escaláveis e boas práticas de desenvolvimento.
-
+- 🏢 &nbsp; **Engenharia de Software Trainee - DevOps (06/2025 - Atualmente)** — [BEMOL DIGITAL (Bemol Serviços Financeiros - BSF)](https://www.bemol.com.br/)  
+  Contribuindo com soluções tecnológicas, automações, arquitetura e padrões de software, infraestrutura como código, CI/CD e provisionamentos de recursos.
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
 ### 💻 &nbsp;Front-end:
