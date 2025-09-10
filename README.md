@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Jackson Diego, desenvolvedor Full-Stack e apainado por programação!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Jackson Diego, desenvolvedor Full-Stack e apaixonado por tecnologia!</h1>
 <p align="center">
   <a href="https://www.instagram.com/jackson.santos.ribeiro/"><img src="https://img.shields.io/badge/-@jackson.santos.ribeiro-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.youtube.com/@jacksondiego5413"><img src="https://img.shields.io/badge/-Jackson Diego-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white" /></a>
