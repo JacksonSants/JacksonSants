@@ -11,10 +11,10 @@
 
 ## 👨🏻‍💻 &nbsp;Sobre mim
 
-- 🎓 &nbsp; Sou Bacharel em **Sistemas de Informação** pela **Universidade Federal do Amazonas (UFAM)**, no Instituto de Ciências Exatas e Tecnologia (ICET).
+- 🎓 &nbsp; Sou Bacharel em **Sistemas de Informação** pela **Universidade Federal do Amazonas (UFAM)**, no Instituto de Ciências Exatas e Tecnologia (ICET - 2025/1).
 - 💡 &nbsp; Meu primeiro contato com programação foi na universidade, e desde então venho construindo uma **base sólida** em desenvolvimento, pesquisa e aprendizado contínuo.
 - 💚 &nbsp; Com o tempo, descobri uma verdadeira **paixão** pela área de desenvolvimento.
-- 🚀 &nbsp; Tenho interesse e experiência em atuar em toda a área de desenvolvimento de software, desde a construção e manutenção de aplicações até o processo de deploy e entrega contínua.
+- 🚀 &nbsp; Tenho interesse e experiência em atuar em toda a área de desenvolvimento de software, desde a construção e manutenção de aplicações até o processo de CI/CD.
 - 🧠 &nbsp; Tenho interesse especial em **arquitetura de software**, **design de interfaces** e **boas práticas de código**, **CI/CD**, **automação** e **infraestrutura como código**.
 - ⚽ &nbsp; Gosto de **futebol**, **pré-história**, **série/filme**, **livros/mangás**, **progamação** durante meu tempo livre, e estou tornando a corrida/caminhada parte do meu dia para manter a saúde física e mental.
 
@@ -30,7 +30,7 @@
 
 - 🏢 &nbsp; **Estagiário em Engenharia de Software (06/2024 - 06/2025)** — [BEMOL DIGITAL](https://www.bemol.com.br/)  
   Contribuindo com soluções inovadoras, aprendendo sobre sistemas escaláveis e boas práticas de desenvolvimento.
-- 🏢 &nbsp; **Engenharia de Software Trainee - DevOps (06/2025 - Atualmente)** — [BEMOL DIGITAL (Bemol Serviços Financeiros - BSF)](https://www.bemol.com.br/)  
+- 🏢 &nbsp; **Engenharia de Software Trainee - DevOps (06/2025 - Atualmente)** — [Bemol Serviços Financeiros - BSF](https://www.bemol.com.br/)  
   Contribuindo com soluções tecnológicas, automações, arquitetura e padrões de software, infraestrutura como código, CI/CD e provisionamentos de recursos.
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
